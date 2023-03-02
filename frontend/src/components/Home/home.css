@@ -5,7 +5,7 @@
 }
 .vector-graphics{
     filter: drop-shadow(0 40px 10px rgba(0, 0, 0, 0.381));
-    animation: picAnimation 1s infinite ease-in-out ; 
+    animation: picAnimation 1s infinite ease-in-out alternate; 
 }
  @keyframes picAnimation {
     to{
